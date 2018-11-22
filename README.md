@@ -1,6 +1,6 @@
 ### dox
 ---
-https://devdocs.io/
+https://github.com/tj/dox
 
 ```
 ```
